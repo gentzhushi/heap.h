@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-#include "../heap.h"
 #define HEAP_H_IMPLEMENTATION_
+#include "../heap.h"
 
 const int inputs[] = { 1, 0, 3, 2, 4, 9, 8, 5, 6, 7 };
 

@@ -4,7 +4,7 @@ An STB-style library for the heap data structure in C.
 
 ## How to use in you project
 
-You already know the drill. Copy-paste it in you project, include it, and `#define HEAP_H_IMPLEMENTATION_`:
+You already know the drill. Copy-paste it in your project, include it, and `#define HEAP_H_IMPLEMENTATION_`:
 
 ```c
 #define HEAP_H_IMPLEMENTATION_
